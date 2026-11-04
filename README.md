@@ -1,0 +1,1 @@
+This file contains the dataset used for training the MAE-YOLO model and the code of the END module, which can be used to reproduce the results presented in the manuscript.
